@@ -28,6 +28,7 @@ function App() {
       <p className="read-the-docs">
         This will be a Potion-maker "game" - time 7 Days
         19 Oktober - THE DAY
+        with drag and drop system
       </p>
     </>
   )
