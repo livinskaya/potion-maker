@@ -27,6 +27,7 @@ function App() {
       </div>
       <p className="read-the-docs">
         This will be a Potion-maker "game" - time 7 Days
+        19 Oktober - THE DAY
       </p>
     </>
   )
