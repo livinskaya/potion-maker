@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        This will be a Potion-maker "game" - time 7 Days
       </p>
     </>
   )
