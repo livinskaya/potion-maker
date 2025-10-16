@@ -10,7 +10,6 @@ export default function App() {
           {/* Cauldron body */}
           <div className="absolute bottom-1 w-56 h-48 bg-[#2D4158] rounded-full z-10"></div>
 
-          {/* Cauldron brim */}
           <div className="absolute top-0 w-full h-6 bg-[#2D4158] rounded-xl z-10"></div>
           <div className="absolute top-2 left-1 w-[90%] h-8 bg-[#2D4158] rounded-full z-10"></div>
 
