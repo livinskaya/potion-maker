@@ -5,9 +5,7 @@ export default function App() {
     <div className="flex items-center justify-center min-h-screen bg-gray-900">
       {/* Cauldron */}
       <div className="relative w-56 h-40">
-        {/* Cauldron container */}
         <div className="absolute left-0 top-0 w-56 h-42 overflow-hidden">
-          {/* Cauldron body */}
           <div className="absolute bottom-1 w-56 h-48 bg-[#2D4158] rounded-full z-10"></div>
 
           <div className="absolute top-0 w-full h-6 bg-[#2D4158] rounded-xl z-10"></div>
