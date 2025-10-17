@@ -1,4 +1,3 @@
-
 export default function App() {
   return (
     <div className="flex items-center justify-center min-h-screen bg-gray-900">
@@ -16,4 +15,6 @@ export default function App() {
       </div>
     </div>
   );
+
+  //big programm stuff on 18.10
 }
