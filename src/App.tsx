@@ -16,5 +16,5 @@ export default function App() {
     </div>
   );
 
-  //big programm stuff on 18.10
+  //big programm stuff on 18.10 or finsihed
 }
